@@ -11,6 +11,7 @@ Fitur-fitur utama aplikasi ini mencakup:
 Aplikasi ini diharapkan dapat membantu pengguna dalam mempercepat dan mempermudah proses pemesanan baut dan mur dengan pilihan yang terorganisir dan detail.
 
 
+![Tugas pertemuan 7 mobile](https://github.com/user-attachments/assets/f365653f-73a6-482b-8577-59b687c7e682)
 
 
 
