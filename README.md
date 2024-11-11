@@ -13,17 +13,13 @@ Aplikasi ini diharapkan dapat membantu pengguna dalam mempercepat dan mempermuda
 
 ![storybor2](https://github.com/user-attachments/assets/402b3485-df6e-439d-9ba9-21d0391af9d3)
 
-Storyboard aplikasi pemesanan baut dan mur ini menggambarkan alur utama aplikasi, dimulai dari layar utama hingga proses konfirmasi pemesanan. Setiap layar dirancang untuk memastikan pengguna dapat dengan mudah menavigasi dan memahami fungsi utama aplikasi. Berikut detail dari setiap layar dalam storyboard:
 
-Layar Utama – Menampilkan daftar kategori baut dan mur dengan opsi pencarian dan filter untuk memudahkan pengguna menemukan produk yang dibutuhkan.
+Storyboard aplikasi pemesanan baut dan mur ini menggambarkan alur utama aplikasi, dimulai dari layar utama hingga proses konfirmasi pemesanan. Setiap layar dirancang untuk memastikan pengguna dapat dengan mudah menavigasi dan memahami fungsi utama aplikasi. Berikut detail dari setiap layar dalam storyboard: 
 
-Layar Detail Produk – Pengguna dapat melihat informasi lengkap tentang produk yang dipilih, termasuk gambar, ukuran, spesifikasi, dan harga per item.
-
-Layar Keranjang – Mengumpulkan semua item yang telah dipilih oleh pengguna, memungkinkan mereka meninjau dan mengedit pesanan sebelum melakukan checkout.
-
-Layar Checkout – Menampilkan rincian total pesanan, termasuk subtotal, pajak, dan biaya pengiriman. Pengguna dapat memasukkan detail pengiriman dan memilih metode pembayaran.
-
-Layar Konfirmasi – Setelah menyelesaikan pesanan, pengguna akan diarahkan ke layar konfirmasi, yang menampilkan ringkasan pemesanan dan estimasi waktu pengiriman.
+* Layar Utama – Menampilkan daftar kategori baut dan mur dengan opsi pencarian dan filter untuk memudahkan pengguna menemukan produk yang dibutuhkan.
+* Layar Detail Produk – Pengguna dapat melihat informasi lengkap tentang produk yang dipilih, termasuk gambar, ukuran, spesifikasi, dan harga per item.
+* Layar Keranjang – Mengumpulkan semua item yang telah dipilih oleh pengguna, memungkinkan mereka meninjau dan mengedit pesanan sebelum melakukan checkout.
+* Layar Konfirmasi – Setelah menyelesaikan pesanan, pengguna akan diarahkan ke layar konfirmasi.
 
 Storyboard ini bertujuan untuk menciptakan alur yang logis dan nyaman bagi pengguna, memastikan proses pemesanan berjalan lancar dari awal hingga selesai.
 
