@@ -24,6 +24,12 @@ Storyboard aplikasi pemesanan baut dan mur ini menggambarkan alur utama aplikasi
 Storyboard ini bertujuan untuk menciptakan alur yang logis dan nyaman bagi pengguna, memastikan proses pemesanan berjalan lancar dari awal hingga selesai.
 
 
+![UI PROJECT](https://github.com/user-attachments/assets/1a303c85-45f0-47cd-9bc8-90e3adbd8379)
+
+
+
+
+
 
 
 
