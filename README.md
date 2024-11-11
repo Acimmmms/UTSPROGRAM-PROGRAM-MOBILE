@@ -11,7 +11,11 @@ Fitur-fitur utama aplikasi ini mencakup:
 Aplikasi ini diharapkan dapat membantu pengguna dalam mempercepat dan mempermudah proses pemesanan baut dan mur dengan pilihan yang terorganisir dan detail.
 
 
+
+
 ![storybor2](https://github.com/user-attachments/assets/402b3485-df6e-439d-9ba9-21d0391af9d3)
+
+
 
 
 Storyboard aplikasi pemesanan baut dan mur ini menggambarkan alur utama aplikasi, dimulai dari layar utama hingga proses konfirmasi pemesanan. Setiap layar dirancang untuk memastikan pengguna dapat dengan mudah menavigasi dan memahami fungsi utama aplikasi. Berikut detail dari setiap layar dalam storyboard: 
@@ -21,11 +25,12 @@ Storyboard aplikasi pemesanan baut dan mur ini menggambarkan alur utama aplikasi
 * Layar Keranjang – Mengumpulkan semua item yang telah dipilih oleh pengguna, memungkinkan mereka meninjau dan mengedit pesanan sebelum melakukan checkout.
 * Layar Konfirmasi – Setelah menyelesaikan pesanan, pengguna akan diarahkan ke layar konfirmasi.
 
-Storyboard ini bertujuan untuk menciptakan alur yang logis dan nyaman bagi pengguna, memastikan proses pemesanan berjalan lancar dari awal hingga selesai.
+Storyboard ini bertujuan untuk menciptakan alur yang logis dan nyaman bagi pengguna, memastikan proses pemesanan berjalan lancar dari awal hingga seles
 
 
-![UI PROJECT](https://github.com/user-attachments/assets/1a303c85-45f0-47cd-9bc8-90e3adbd8379)
 
+
+![picture android studio fix iyemah](https://github.com/user-attachments/assets/f1380c96-331c-44a9-897d-97a83b82d10f)
 
 
 
