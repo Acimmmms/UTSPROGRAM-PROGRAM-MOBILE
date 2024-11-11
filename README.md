@@ -10,9 +10,8 @@ Fitur-fitur utama aplikasi ini mencakup:
   
 Aplikasi ini diharapkan dapat membantu pengguna dalam mempercepat dan mempermudah proses pemesanan baut dan mur dengan pilihan yang terorganisir dan detail.
 
-![storyboard](https://github.com/user-attachments/assets/28d1e4c0-79a0-4af2-b913-1c8653343dc5)
 
-
+![storybor2](https://github.com/user-attachments/assets/402b3485-df6e-439d-9ba9-21d0391af9d3)
 
 
 
