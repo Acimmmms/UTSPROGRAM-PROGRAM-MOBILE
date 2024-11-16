@@ -1,4 +1,4 @@
-# Aplikasi Pemesana
+# Aplikasi Pemesanan
 
 Proyek ini adalah aplikasi pemesanan barang khusus untuk baut dan mur,
 yang dirancang untuk memudahkan pengguna dalam memilih dan memesan berbagai jenis dan ukuran baut sesuai kebutuhan. 
